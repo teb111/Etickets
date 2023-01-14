@@ -403,3 +403,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+temp_auto_push.bat
+temp_interactive_push.bat
